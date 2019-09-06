@@ -1,6 +1,6 @@
 # Fiscal Sponsor README.md Attribution
 
-Please include the below attribution template in your project's repository's `README.md`. 
+Please include the below attribution template in your project repository's `README.md`. 
 It should go immediately below your project or library's description and before any 
 specific details about your project or library.
 
