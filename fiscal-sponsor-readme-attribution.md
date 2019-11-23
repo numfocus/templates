@@ -24,7 +24,7 @@ pay for developer time, professional services, travel, workshops, and a variety 
 <div align="center">
   <a href="<PROJECT_NUMFOCUS_SPONSORSHIP_LINK>">
     <img height="60px" 
-         src="https://raw.githubusercontent.com/numfocus/templates/master/numfocus-logo.png" 
+         src="https://raw.githubusercontent.com/numfocus/templates/master/images/numfocus-logo.png" 
          align="center">
   </a>
 </div>
